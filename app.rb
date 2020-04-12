@@ -6,7 +6,7 @@ class App < Sinatra::Base
     "Welcome to your app!!!! I Built this, hello hello hello"
   end
   
-  get '/hi' do
+  get '/shotgun' do
   "Started my server using Shotgun!"
   end
 
